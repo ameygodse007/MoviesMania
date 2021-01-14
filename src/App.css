@@ -1,0 +1,13 @@
+*{
+  margin:0;
+}
+
+body{
+  background:linear-gradient(
+    rgba(30,27,38, 0.95), 
+    rgba(30,27,38, 0.95)),
+  url("https://www.wallpaperup.com/uploads/wallpapers/2015/12/12/858387/4b8a92b93fc6b6a5a91175fdc7692d3c-700.jpg");
+background-position: center;
+background-size: cover;
+background-repeat: repeat;
+}
